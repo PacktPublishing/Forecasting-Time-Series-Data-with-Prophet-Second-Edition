@@ -35,6 +35,7 @@ n_changepoints=5)
 
 **Following is what you need for this book:**
 This book is for business managers, data scientists, data analysts, machine learning engineers, and software engineers who want to build time-series forecasts in Python or R. To get the most out of this book, you should have a basic understanding of time series data and be able to differentiate it from other types of data. Basic knowledge of forecasting techniques is a plus.	
+
 With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
 
 ### Software and Hardware List
