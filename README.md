@@ -2,7 +2,7 @@
 
 <a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Forecasting Time Series Data with Prophet" height="256px" align="right"></a>
 
-This is the code repository for [<Book name>](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Forecasting Time Series Data with Prophet](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
 
 **Forecasting Time Series Data with Prophet**
 
