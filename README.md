@@ -1,8 +1,8 @@
 # Forecasting Time Series Data with Prophet	
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Forecasting Time Series Data with Prophet" height="256px" align="right"></a>
+<a href="https://www.amazon.in/Forecasting-Time-Data-Prophet-forecasting/dp/1837630410/ref=sr_1_2?crid=1ELYBTPU6792L&keywords=Forecasting+Time+Series+Data+with+Prophet&qid=1680155997&sprefix=%2Caps%2C353&sr=8-2"><img src="https://m.media-amazon.com/images/I/51X2bfnWpxL._SX403_BO1,204,203,200_.jpg" alt="Forecasting Time Series Data with Prophet" height="256px" align="right"></a>
 
-This is the code repository for [Forecasting Time Series Data with Prophet](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Forecasting Time Series Data with Prophet](https://www.amazon.in/Forecasting-Time-Data-Prophet-forecasting/dp/1837630410/ref=sr_1_2?crid=1ELYBTPU6792L&keywords=Forecasting+Time+Series+Data+with+Prophet&qid=1680155997&sprefix=%2Caps%2C353&sr=8-2), published by Packt.
 
 **Forecasting Time Series Data with Prophet**
 
