@@ -54,3 +54,8 @@ With the following software and hardware list you can run all code files present
 ## Get to Know the Author
 **Greg Rafferty** is a data scientist at Google, in Mountain View, California. With over a decade of experience, he has worked with many of the top firms in tech including Google, Facebook, and IBM. Greg has been an instructor in business analytics on Coursera and led face-to-face workshops with industry professionals in data science and analytics. With both an MBA and a degree in engineering, he is able to work across the spectrum of data science and communicate with both technical experts and non-technical consumers of data with equal ease.
 
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781837630417">https://packt.link/free-ebook/9781837630417 </a> </p>
