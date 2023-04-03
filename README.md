@@ -29,8 +29,8 @@ All of the code is organized into folders.
 The code will look like the following:
 ```
 model = Prophet(seasonality_mode='multiplicative',
-yearly_seasonality=4,
-n_changepoints=5)
+    yearly_seasonality=4,
+    n_changepoints=5)
 ```
 
 **Following is what you need for this book:**
