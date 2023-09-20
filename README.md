@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Forecasting Time Series Data with Prophet	
 
 <a href="https://www.amazon.in/Forecasting-Time-Data-Prophet-forecasting/dp/1837630410/ref=sr_1_2?crid=1ELYBTPU6792L&keywords=Forecasting+Time+Series+Data+with+Prophet&qid=1680155997&sprefix=%2Caps%2C353&sr=8-2"><img src="https://m.media-amazon.com/images/I/51X2bfnWpxL._SX403_BO1,204,203,200_.jpg" alt="Forecasting Time Series Data with Prophet" height="256px" align="right"></a>
